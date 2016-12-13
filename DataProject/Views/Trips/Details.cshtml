@@ -1,0 +1,66 @@
+﻿@model DataProject.Trip
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Trip</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Company.name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Company.name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.plane)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.plane)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.town_from)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.town_from)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.town_to)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.town_to)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.time_out)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.time_out)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.time_in)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.time_in)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.trip_no }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

@@ -1,0 +1,52 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title Oleg Lyahovetskyi Application</title>
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+<link href="~/Content/Site.css" rel="stylesheet" />
+    <link href="~/Content/font-awesome.min.css" rel="stylesheet" />
+    <link rel="shortcut icon" type="image/x-icon" href="~/img/globe.ico" />
+
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink("Trips", "Index", "Trips", new { area = "" }, new { @class = "navbar-brand" })
+               
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li>@Html.ActionLink("Companies", "Index", "Companies", new { area = "" }, new { @class = "" })</li>
+                    <li> @Html.ActionLink("Passengers", "Index", "Passengers", new { area = "" }, new { @class = "" })</li>
+                    <li>@Html.ActionLink("Contact", "Contact", "Trips", new { area = "" }, new { @class = "" })</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer align="center">
+            <ul class="list-inline list-social">
+                <li><a href="https://github.com/oleglyakhovetskyi" target="_blank" class="btn btn-link"><i class="fa fa-github fa-fw"></i> Github</a></li>
+                <li><a href="https://ua.linkedin.com/in/олег-ляховецкий-59a303b9/en" target="_blank" class="btn btn-link"><i class="fa fa-linkedin fa-fw"></i>LinkedIn</a></li>
+                <li><a href="mailto:oleglyakhovetskyi@gmail.com" class="btn btn-link"><i class="fa fa-google fa-fw"></i>oleglyakhovetskyi@gmail.com</a></li>
+                <li><a href="skype:djlex055?add" class="btn btn-link"><i class="fa fa-skype fa-fw"></i>Skype</a></li>
+                <li><a class="btn btn-link"><i class="fa fa-phone fa-fw"></i>+38(097)-026-69-77</a></li>
+            </ul>
+            <p>&copy; @DateTime.Now.Year - <a href="https://ua.linkedin.com/in/олег-ляховецкий-59a303b9/en" target="_blank">Oleg Lyahovetskyi</a> Application</p>
+        </footer>
+    </div>
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+</body>
+</html>

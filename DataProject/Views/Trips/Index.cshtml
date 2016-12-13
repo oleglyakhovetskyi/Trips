@@ -1,0 +1,76 @@
+﻿
+@model PagedList.IPagedList<DataProject.Trip>
+@using PagedList.Mvc;
+
+<link href="~/Content/PagedList.css" rel="stylesheet" />
+@{
+    ViewBag.Title = "Trips";
+}
+
+<h2>Trips</h2>
+@using (Html.BeginForm("Index","Trips", FormMethod.Get))
+{
+    <p>  
+        Company: @Html.DropDownList("SearchCompany", "All")
+        Plane: @Html.DropDownList("SearchPlane", "All")
+        From Town: @Html.DropDownList("SearchTownFrom", "All") 
+        To Town: @Html.DropDownList("SearchTownTo", "All")
+        <input type="submit" style="margin-left:20px" class="btn btn-primary" value="Filter" /> 
+        <br />
+        
+    </p>
+}
+<table class="table table-hover">
+   
+        <tr>
+            <th>@Html.ActionLink("Company", "Index", new { sortOrder = ViewBag.CompanySortParm })</th>
+            <th>@Html.ActionLink("Plane", "Index", new { sortOrder = ViewBag.Plane })</th>
+            <th> @Html.ActionLink("From Town", "Index", new { sortOrder = ViewBag.FromTown })</th>
+            <th>@Html.ActionLink("To Town", "Index", new { sortOrder = ViewBag.ToTown })</th>
+            <th>@Html.ActionLink("Departure time", "Index", new { sortOrder = ViewBag.DepartureTime })</th>
+            <th> @Html.ActionLink("Arrival Time", "Index", new { sortOrder = ViewBag.ArrivalTime })</th>
+            <th>Update</th>
+        </tr>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Company.name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.plane)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.town_from)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.town_to)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.time_out)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.time_in)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.trip_no }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.trip_no }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.trip_no })
+                </td>
+            </tr>
+
+        }
+    </tbody>
+</table>
+<p>
+    @Html.ActionLink("Create New Trip", "Create")
+</p>
+<br />
+<center>
+    Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+
+    @Html.PagedListPager(Model, page => Url.Action("Index",
+    new { page, sortOrder = ViewBag.CurrentSort, currentFilter = ViewBag.CurrentFilter }))
+</center>
+

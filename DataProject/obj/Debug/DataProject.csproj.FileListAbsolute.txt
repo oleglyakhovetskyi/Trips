@@ -1,0 +1,123 @@
+c:\users\oleg\documents\visual studio 2015\Projects\DataProject\DataProject\bin\roslyn\csc.exe
+c:\users\oleg\documents\visual studio 2015\Projects\DataProject\DataProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\oleg\documents\visual studio 2015\Projects\DataProject\DataProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\oleg\documents\visual studio 2015\Projects\DataProject\DataProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\oleg\documents\visual studio 2015\Projects\DataProject\DataProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\oleg\documents\visual studio 2015\Projects\DataProject\DataProject\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\oleg\documents\visual studio 2015\Projects\DataProject\DataProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\oleg\documents\visual studio 2015\Projects\DataProject\DataProject\bin\roslyn\System.Collections.Immutable.dll
+c:\users\oleg\documents\visual studio 2015\Projects\DataProject\DataProject\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\oleg\documents\visual studio 2015\Projects\DataProject\DataProject\bin\roslyn\vbc.exe
+c:\users\oleg\documents\visual studio 2015\Projects\DataProject\DataProject\bin\roslyn\VBCSCompiler.exe
+c:\users\oleg\documents\visual studio 2015\Projects\DataProject\DataProject\bin\roslyn\VBCSCompiler.exe.config
+c:\users\oleg\documents\visual studio 2015\Projects\DataProject\DataProject\bin\DataProject.dll.config
+c:\users\oleg\documents\visual studio 2015\Projects\DataProject\DataProject\bin\DataProject.dll
+c:\users\oleg\documents\visual studio 2015\Projects\DataProject\DataProject\bin\DataProject.pdb
+c:\users\oleg\documents\visual studio 2015\Projects\DataProject\DataProject\bin\EntityFramework.dll
+c:\users\oleg\documents\visual studio 2015\Projects\DataProject\DataProject\bin\EntityFramework.SqlServer.dll
+c:\users\oleg\documents\visual studio 2015\Projects\DataProject\DataProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\oleg\documents\visual studio 2015\Projects\DataProject\DataProject\bin\Microsoft.Web.Infrastructure.dll
+c:\users\oleg\documents\visual studio 2015\Projects\DataProject\DataProject\bin\System.Web.Helpers.dll
+c:\users\oleg\documents\visual studio 2015\Projects\DataProject\DataProject\bin\System.Web.Mvc.dll
+c:\users\oleg\documents\visual studio 2015\Projects\DataProject\DataProject\bin\System.Web.Razor.dll
+c:\users\oleg\documents\visual studio 2015\Projects\DataProject\DataProject\bin\System.Web.Webpages.Deployment.dll
+c:\users\oleg\documents\visual studio 2015\Projects\DataProject\DataProject\bin\System.Web.Webpages.dll
+c:\users\oleg\documents\visual studio 2015\Projects\DataProject\DataProject\bin\System.Web.Webpages.Razor.dll
+c:\users\oleg\documents\visual studio 2015\Projects\DataProject\DataProject\bin\EntityFramework.xml
+c:\users\oleg\documents\visual studio 2015\Projects\DataProject\DataProject\bin\EntityFramework.SqlServer.xml
+c:\users\oleg\documents\visual studio 2015\Projects\DataProject\DataProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\oleg\documents\visual studio 2015\Projects\DataProject\DataProject\bin\System.Web.Razor.xml
+c:\users\oleg\documents\visual studio 2015\Projects\DataProject\DataProject\bin\System.Web.Webpages.xml
+c:\users\oleg\documents\visual studio 2015\Projects\DataProject\DataProject\bin\System.Web.Webpages.Deployment.xml
+c:\users\oleg\documents\visual studio 2015\Projects\DataProject\DataProject\bin\System.Web.Webpages.Razor.xml
+c:\users\oleg\documents\visual studio 2015\Projects\DataProject\DataProject\bin\System.Web.Helpers.xml
+c:\users\oleg\documents\visual studio 2015\Projects\DataProject\DataProject\bin\System.Web.Mvc.xml
+c:\users\oleg\documents\visual studio 2015\Projects\DataProject\DataProject\obj\Debug\DataProject.dll
+c:\users\oleg\documents\visual studio 2015\Projects\DataProject\DataProject\obj\Debug\DataProject.pdb
+c:\users\oleg\documents\visual studio 2015\Projects\DataProject\DataProject\bin\PagedList.dll
+c:\users\oleg\documents\visual studio 2015\Projects\DataProject\DataProject\bin\PagedList.Mvc.dll
+c:\users\oleg\documents\visual studio 2015\Projects\DataProject\DataProject\bin\PagedList.xml
+c:\users\oleg\documents\visual studio 2015\Projects\DataProject\DataProject\bin\PagedList.Mvc.xml
+c:\users\oleg\documents\visual studio 2015\Projects\DataProject\DataProject\obj\Debug\DataProject.csprojResolveAssemblyReference.cache
+C:\Users\Oleg\Desktop\проекты ASP.net\GitHub\DataProject\DataProject\bin\roslyn\csc.exe
+C:\Users\Oleg\Desktop\проекты ASP.net\GitHub\DataProject\DataProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Oleg\Desktop\проекты ASP.net\GitHub\DataProject\DataProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Oleg\Desktop\проекты ASP.net\GitHub\DataProject\DataProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Oleg\Desktop\проекты ASP.net\GitHub\DataProject\DataProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Oleg\Desktop\проекты ASP.net\GitHub\DataProject\DataProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Oleg\Desktop\проекты ASP.net\GitHub\DataProject\DataProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Oleg\Desktop\проекты ASP.net\GitHub\DataProject\DataProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Oleg\Desktop\проекты ASP.net\GitHub\DataProject\DataProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Oleg\Desktop\проекты ASP.net\GitHub\DataProject\DataProject\bin\roslyn\vbc.exe
+C:\Users\Oleg\Desktop\проекты ASP.net\GitHub\DataProject\DataProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\Oleg\Desktop\проекты ASP.net\GitHub\DataProject\DataProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Oleg\Desktop\проекты ASP.net\GitHub\DataProject\DataProject\bin\DataProject.dll.config
+C:\Users\Oleg\Desktop\проекты ASP.net\GitHub\DataProject\DataProject\bin\DataProject.dll
+C:\Users\Oleg\Desktop\проекты ASP.net\GitHub\DataProject\DataProject\bin\DataProject.pdb
+C:\Users\Oleg\Desktop\проекты ASP.net\GitHub\DataProject\DataProject\bin\EntityFramework.dll
+C:\Users\Oleg\Desktop\проекты ASP.net\GitHub\DataProject\DataProject\bin\EntityFramework.SqlServer.dll
+C:\Users\Oleg\Desktop\проекты ASP.net\GitHub\DataProject\DataProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Oleg\Desktop\проекты ASP.net\GitHub\DataProject\DataProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Oleg\Desktop\проекты ASP.net\GitHub\DataProject\DataProject\bin\PagedList.dll
+C:\Users\Oleg\Desktop\проекты ASP.net\GitHub\DataProject\DataProject\bin\PagedList.Mvc.dll
+C:\Users\Oleg\Desktop\проекты ASP.net\GitHub\DataProject\DataProject\bin\System.Web.Helpers.dll
+C:\Users\Oleg\Desktop\проекты ASP.net\GitHub\DataProject\DataProject\bin\System.Web.Mvc.dll
+C:\Users\Oleg\Desktop\проекты ASP.net\GitHub\DataProject\DataProject\bin\System.Web.Razor.dll
+C:\Users\Oleg\Desktop\проекты ASP.net\GitHub\DataProject\DataProject\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Oleg\Desktop\проекты ASP.net\GitHub\DataProject\DataProject\bin\System.Web.Webpages.dll
+C:\Users\Oleg\Desktop\проекты ASP.net\GitHub\DataProject\DataProject\bin\System.Web.Webpages.Razor.dll
+C:\Users\Oleg\Desktop\проекты ASP.net\GitHub\DataProject\DataProject\bin\EntityFramework.xml
+C:\Users\Oleg\Desktop\проекты ASP.net\GitHub\DataProject\DataProject\bin\EntityFramework.SqlServer.xml
+C:\Users\Oleg\Desktop\проекты ASP.net\GitHub\DataProject\DataProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Oleg\Desktop\проекты ASP.net\GitHub\DataProject\DataProject\bin\PagedList.xml
+C:\Users\Oleg\Desktop\проекты ASP.net\GitHub\DataProject\DataProject\bin\PagedList.Mvc.xml
+C:\Users\Oleg\Desktop\проекты ASP.net\GitHub\DataProject\DataProject\bin\System.Web.Razor.xml
+C:\Users\Oleg\Desktop\проекты ASP.net\GitHub\DataProject\DataProject\bin\System.Web.Webpages.xml
+C:\Users\Oleg\Desktop\проекты ASP.net\GitHub\DataProject\DataProject\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Oleg\Desktop\проекты ASP.net\GitHub\DataProject\DataProject\bin\System.Web.Webpages.Razor.xml
+C:\Users\Oleg\Desktop\проекты ASP.net\GitHub\DataProject\DataProject\bin\System.Web.Helpers.xml
+C:\Users\Oleg\Desktop\проекты ASP.net\GitHub\DataProject\DataProject\bin\System.Web.Mvc.xml
+C:\Users\Oleg\Desktop\проекты ASP.net\GitHub\DataProject\DataProject\obj\Debug\DataProject.csprojResolveAssemblyReference.cache
+C:\Users\Oleg\Desktop\проекты ASP.net\GitHub\DataProject\DataProject\obj\Debug\DataProject.dll
+C:\Users\Oleg\Desktop\проекты ASP.net\GitHub\DataProject\DataProject\obj\Debug\DataProject.pdb
+C:\Users\Oleg\Desktop\O'Reilly\DataProject\DataProject\bin\roslyn\csc.exe
+C:\Users\Oleg\Desktop\O'Reilly\DataProject\DataProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Oleg\Desktop\O'Reilly\DataProject\DataProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Oleg\Desktop\O'Reilly\DataProject\DataProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Oleg\Desktop\O'Reilly\DataProject\DataProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Oleg\Desktop\O'Reilly\DataProject\DataProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Oleg\Desktop\O'Reilly\DataProject\DataProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Oleg\Desktop\O'Reilly\DataProject\DataProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Oleg\Desktop\O'Reilly\DataProject\DataProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Oleg\Desktop\O'Reilly\DataProject\DataProject\bin\roslyn\vbc.exe
+C:\Users\Oleg\Desktop\O'Reilly\DataProject\DataProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\Oleg\Desktop\O'Reilly\DataProject\DataProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Oleg\Desktop\O'Reilly\DataProject\DataProject\bin\DataProject.dll.config
+C:\Users\Oleg\Desktop\O'Reilly\DataProject\DataProject\bin\DataProject.dll
+C:\Users\Oleg\Desktop\O'Reilly\DataProject\DataProject\bin\DataProject.pdb
+C:\Users\Oleg\Desktop\O'Reilly\DataProject\DataProject\bin\EntityFramework.dll
+C:\Users\Oleg\Desktop\O'Reilly\DataProject\DataProject\bin\EntityFramework.SqlServer.dll
+C:\Users\Oleg\Desktop\O'Reilly\DataProject\DataProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Oleg\Desktop\O'Reilly\DataProject\DataProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Oleg\Desktop\O'Reilly\DataProject\DataProject\bin\PagedList.dll
+C:\Users\Oleg\Desktop\O'Reilly\DataProject\DataProject\bin\PagedList.Mvc.dll
+C:\Users\Oleg\Desktop\O'Reilly\DataProject\DataProject\bin\System.Web.Helpers.dll
+C:\Users\Oleg\Desktop\O'Reilly\DataProject\DataProject\bin\System.Web.Mvc.dll
+C:\Users\Oleg\Desktop\O'Reilly\DataProject\DataProject\bin\System.Web.Razor.dll
+C:\Users\Oleg\Desktop\O'Reilly\DataProject\DataProject\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Oleg\Desktop\O'Reilly\DataProject\DataProject\bin\System.Web.Webpages.dll
+C:\Users\Oleg\Desktop\O'Reilly\DataProject\DataProject\bin\System.Web.Webpages.Razor.dll
+C:\Users\Oleg\Desktop\O'Reilly\DataProject\DataProject\bin\EntityFramework.xml
+C:\Users\Oleg\Desktop\O'Reilly\DataProject\DataProject\bin\EntityFramework.SqlServer.xml
+C:\Users\Oleg\Desktop\O'Reilly\DataProject\DataProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Oleg\Desktop\O'Reilly\DataProject\DataProject\bin\PagedList.xml
+C:\Users\Oleg\Desktop\O'Reilly\DataProject\DataProject\bin\PagedList.Mvc.xml
+C:\Users\Oleg\Desktop\O'Reilly\DataProject\DataProject\bin\System.Web.Razor.xml
+C:\Users\Oleg\Desktop\O'Reilly\DataProject\DataProject\bin\System.Web.Webpages.xml
+C:\Users\Oleg\Desktop\O'Reilly\DataProject\DataProject\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Oleg\Desktop\O'Reilly\DataProject\DataProject\bin\System.Web.Webpages.Razor.xml
+C:\Users\Oleg\Desktop\O'Reilly\DataProject\DataProject\bin\System.Web.Helpers.xml
+C:\Users\Oleg\Desktop\O'Reilly\DataProject\DataProject\bin\System.Web.Mvc.xml
+C:\Users\Oleg\Desktop\O'Reilly\DataProject\DataProject\obj\Debug\DataProject.dll
+C:\Users\Oleg\Desktop\O'Reilly\DataProject\DataProject\obj\Debug\DataProject.pdb
+C:\Users\Oleg\Desktop\O'Reilly\DataProject\DataProject\obj\Debug\DataProject.csprojResolveAssemblyReference.cache

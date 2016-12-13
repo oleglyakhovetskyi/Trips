@@ -1,0 +1,52 @@
+﻿
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title></title>
+</head>
+<body>
+    <div>
+        <h1 align ="center">Want to contact me?</h1>
+
+        <div class="row">
+            <div class="col-md-6">
+            <h2 align="center">Feel free to reach me!</h2>
+                                      <p align="center"><a href="https://github.com/oleglyakhovetskyi" target="_blank" class="btn btn-link" style="font-size:large"><i class="fa fa-github fa-fw"></i> Github</a></p>
+                                      <p align="center"><a href="https://ua.linkedin.com/in/олег-ляховецкий-59a303b9/en" target="_blank" class="btn btn-link" style="font-size:large"><i class="fa fa-linkedin fa-fw"></i>LinkedIn</a></p>
+                                      <p align="center"><a href="mailto:oleglyakhovetskyi@gmail.com" class="btn btn-link" style="font-size:large" ><i class="fa fa-google fa-fw" ></i>oleglyakhovetskyi@gmail.com</a></p>
+                                      <p align="center"><a href="skype:djlex055?add" class="btn btn-link" style="font-size:large"><i class="fa fa-skype fa-fw"></i>Skype</a></p>
+                <p align="center"><a class="btn btn-link" style="font-size:large"><i class="fa fa-phone fa-fw"></i>+38(097)-026-69-77</a></p>
+</div>
+            <div class="col-md-6"><h2 align="center">Send Message</h2>
+<form method="post" action="Contact">
+    <table align="center">
+        <tr>
+            <td><h4>Subject: </h4></td>
+            <td><input type="text" name="title" /> </td>
+        </tr>
+        <tr>
+            <td><h4>Message: </h4></td>
+            <td>
+                <textarea rows="10" cols="45" name="text"></textarea>
+            </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td><center><button class="btn btn-primary btn-lg"> Send </button></center></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td><h4 align="center" style="color:green">@ViewBag.Text</h4><h4 align="center" style="color:red">@ViewBag.Error</h4></td>
+        </tr>
+    </table>
+
+</form></div>
+            </div>
+
+
+        </div>
+</body>
+</html>
