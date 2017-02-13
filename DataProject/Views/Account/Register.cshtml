@@ -1,0 +1,67 @@
+﻿@model DataProject.Models.RegisterModel
+
+@{
+    ViewBag.Title = "Register";
+}
+
+<h2>Registration</h2>
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div>
+        <h4>Register a new user</h4>
+        <hr />
+        @Html.ValidationSummary(false)
+
+        <div>
+            <b>First Name</b>
+            <div>
+                @Html.EditorFor(model => model.FirstName)
+            </div>
+        </div>
+
+        <div>
+            <b>Last Name</b>
+            <div>
+                @Html.EditorFor(model => model.LastName)
+            </div>
+        </div>
+
+        <div>
+            <b>Email</b>
+            <div>
+                @Html.EditorFor(model => model.Email)
+            </div>
+        </div>
+
+        <div>
+            <b>Year of Birth</b>
+            <div>
+                @Html.EditorFor(model => model.Year)
+            </div>
+        </div>
+
+        <div>
+            <b>Password</b>
+            <div>
+                @Html.EditorFor(model => model.Password)
+            </div>
+        </div>
+
+        <div>
+            <b>Confirm Password</b>
+            <div>
+                @Html.EditorFor(model => model.PasswordConfirm)
+            </div>
+        </div>
+
+        <div>
+            <div>
+                <input type="submit" class="btn btn-primary" style="margin-top:10px" value="Register" />
+            </div>
+        </div>
+    </div>
+}
